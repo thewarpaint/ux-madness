@@ -1,6 +1,6 @@
 # UX MADNESS
 
-[English version](README-EN.md)
+[English version](README.md)
 
 ## Telmex
 
