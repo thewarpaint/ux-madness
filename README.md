@@ -2,6 +2,16 @@
 
 [Versión en español](README-ES.md)
 
+## Mexico City Government
+
+### Juridical and Legal Services Counseling
+
+| Seen on    | Link                                                                                                                |
+|------------|---------------------------------------------------------------------------------------------------------------------|
+| 2016-07-21 | http://www.consejeria.df.gob.mx/index.php/noticias/colaboraciones/622-apostilla-legalizacion-documentos-publicos-df |
+
++ The web page is an embedded PDF file. Its contents are not searchable by default.
+
 ## Telmex
 
 ### Mi Telmex
